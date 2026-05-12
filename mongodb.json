@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "mongodb": {
+      "command": "python",
+      "args": [
+        "C:\\Users\\ASUS\\Desktop\\mcp\\mongomcp\\mongoserver.py"
+      ],
+      "env": {
+        "MONGODB_URI": "mongodb+srv://hemeshintern:root@cluster0.ru2tebj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+      }
+    }
+  }
+}
